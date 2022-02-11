@@ -1,4 +1,5 @@
 ### Hola!
 
-- 👋 I'm @LeoEmVee.
-- 🌱 Software developer "under construction" (hopefully not for long)...
+- 👋 I'm @LeoEmVee
+- 
+- 🌱 Full-stack software developer
